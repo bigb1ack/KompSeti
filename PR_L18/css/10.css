@@ -1,0 +1,15 @@
+table {
+    width: 70%;
+    font-family: "Lucida Sans Unicode";
+    border-collapse: collapse;
+}
+th {
+    color: #669;
+    border-bottom: 3px solid #6678b1;
+}
+td {
+    color: #669;
+}
+tr:hover td {
+    color: #69f;
+}
